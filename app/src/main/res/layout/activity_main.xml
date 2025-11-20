@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <ListView
+        android:id="@+id/listViewNotes"
         android:layout_width="359dp"
         android:layout_height="573dp"
         app:layout_constraintEnd_toEndOf="parent"
